@@ -7,3 +7,10 @@ https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge.t
 https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
 
 防失联紧急订阅：https://SOS.CMLiussss.net/auto
+
+#clash订阅配置
+https://gist.githubusercontent.com/admzt/eb01f834de45f2dad58b3bf54f2df417/raw/all.yam
+#base64订阅配置
+https://gist.githubusercontent.com/admzt/eb01f834de45f2dad58b3bf54f2df417/raw/all.txt
+
+
